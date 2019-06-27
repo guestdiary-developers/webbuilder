@@ -1,0 +1,178 @@
+{
+  "Roboto": {
+      "category": "sans-serif",
+      "lastModified": "2019-05-01",
+      "subsets": [
+        "latin-ext",
+        "cyrillic-ext",
+        "latin",
+        "vietnamese",
+        "cyrillic",
+        "greek",
+        "greek-ext"
+      ],
+      "variants": {
+        "italic": {
+          "100": {
+            "local": [
+              "'Roboto Thin Italic'",
+              "'Roboto-ThinItalic'"
+            ],
+            "url": {
+              "eot": "http://fonts.gstatic.com/s/roboto/v19/KFOiCnqEu92Fr1Mu51QrEzAdKw.eot",
+              "svg": "http://fonts.gstatic.com/l/font?kit=KFOiCnqEu92Fr1Mu51QrEzAdKA&skey=8f53aa2e7deadc4a&v=v19#Roboto",
+              "ttf": "http://fonts.gstatic.com/s/roboto/v19/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf",
+              "woff": "http://fonts.gstatic.com/s/roboto/v19/KFOiCnqEu92Fr1Mu51QrEzAdKQ.woff",
+              "woff2": "http://fonts.gstatic.com/s/roboto/v19/KFOiCnqEu92Fr1Mu51QrEzAdLw.woff2"
+            }
+          },
+          "300": {
+            "local": [
+              "'Roboto Light Italic'",
+              "'Roboto-LightItalic'"
+            ],
+            "url": {
+              "eot": "http://fonts.gstatic.com/s/roboto/v19/KFOjCnqEu92Fr1Mu51TjASc6CsA.eot",
+              "svg": "http://fonts.gstatic.com/l/font?kit=KFOjCnqEu92Fr1Mu51TjASc6CsM&skey=8f644060176e1f7e&v=v19#Roboto",
+              "ttf": "http://fonts.gstatic.com/s/roboto/v19/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf",
+              "woff": "http://fonts.gstatic.com/s/roboto/v19/KFOjCnqEu92Fr1Mu51TjASc6CsI.woff",
+              "woff2": "http://fonts.gstatic.com/s/roboto/v19/KFOjCnqEu92Fr1Mu51TjASc6CsQ.woff2"
+            }
+          },
+          "400": {
+            "local": [
+              "'Roboto Italic'",
+              "'Roboto-Italic'"
+            ],
+            "url": {
+              "eot": "http://fonts.gstatic.com/s/roboto/v19/KFOkCnqEu92Fr1Mu51xIIzY.eot",
+              "svg": "http://fonts.gstatic.com/l/font?kit=KFOkCnqEu92Fr1Mu51xIIzU&skey=c608c610063635f9&v=v19#Roboto",
+              "ttf": "http://fonts.gstatic.com/s/roboto/v19/KFOkCnqEu92Fr1Mu51xIIzc.ttf",
+              "woff": "http://fonts.gstatic.com/s/roboto/v19/KFOkCnqEu92Fr1Mu51xIIzQ.woff",
+              "woff2": "http://fonts.gstatic.com/s/roboto/v19/KFOkCnqEu92Fr1Mu51xIIzI.woff2"
+            }
+          },
+          "500": {
+            "local": [
+              "'Roboto Medium Italic'",
+              "'Roboto-MediumItalic'"
+            ],
+            "url": {
+              "eot": "http://fonts.gstatic.com/s/roboto/v19/KFOjCnqEu92Fr1Mu51S7ACc6CsA.eot",
+              "svg": "http://fonts.gstatic.com/l/font?kit=KFOjCnqEu92Fr1Mu51S7ACc6CsM&skey=c985e17098069ce0&v=v19#Roboto",
+              "ttf": "http://fonts.gstatic.com/s/roboto/v19/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf",
+              "woff": "http://fonts.gstatic.com/s/roboto/v19/KFOjCnqEu92Fr1Mu51S7ACc6CsI.woff",
+              "woff2": "http://fonts.gstatic.com/s/roboto/v19/KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2"
+            }
+          },
+          "700": {
+            "local": [
+              "'Roboto Bold Italic'",
+              "'Roboto-BoldItalic'"
+            ],
+            "url": {
+              "eot": "http://fonts.gstatic.com/s/roboto/v19/KFOjCnqEu92Fr1Mu51TzBic6CsA.eot",
+              "svg": "http://fonts.gstatic.com/l/font?kit=KFOjCnqEu92Fr1Mu51TzBic6CsM&skey=dd030d266f3beccc&v=v19#Roboto",
+              "ttf": "http://fonts.gstatic.com/s/roboto/v19/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf",
+              "woff": "http://fonts.gstatic.com/s/roboto/v19/KFOjCnqEu92Fr1Mu51TzBic6CsI.woff",
+              "woff2": "http://fonts.gstatic.com/s/roboto/v19/KFOjCnqEu92Fr1Mu51TzBic6CsQ.woff2"
+            }
+          },
+          "900": {
+            "local": [
+              "'Roboto Black Italic'",
+              "'Roboto-BlackItalic'"
+            ],
+            "url": {
+              "eot": "http://fonts.gstatic.com/s/roboto/v19/KFOjCnqEu92Fr1Mu51TLBCc6CsA.eot",
+              "svg": "http://fonts.gstatic.com/l/font?kit=KFOjCnqEu92Fr1Mu51TLBCc6CsM&skey=b80be3241fe40325&v=v19#Roboto",
+              "ttf": "http://fonts.gstatic.com/s/roboto/v19/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf",
+              "woff": "http://fonts.gstatic.com/s/roboto/v19/KFOjCnqEu92Fr1Mu51TLBCc6CsI.woff",
+              "woff2": "http://fonts.gstatic.com/s/roboto/v19/KFOjCnqEu92Fr1Mu51TLBCc6CsQ.woff2"
+            }
+          }
+        },
+        "normal": {
+          "100": {
+            "local": [
+              "'Roboto Thin'",
+              "'Roboto-Thin'"
+            ],
+            "url": {
+              "eot": "http://fonts.gstatic.com/s/roboto/v19/KFOkCnqEu92Fr1MmgVxIIzY.eot",
+              "svg": "http://fonts.gstatic.com/l/font?kit=KFOkCnqEu92Fr1MmgVxIIzU&skey=5473b731ec7fc9c1&v=v19#Roboto",
+              "ttf": "http://fonts.gstatic.com/s/roboto/v19/KFOkCnqEu92Fr1MmgVxIIzc.ttf",
+              "woff": "http://fonts.gstatic.com/s/roboto/v19/KFOkCnqEu92Fr1MmgVxIIzQ.woff",
+              "woff2": "http://fonts.gstatic.com/s/roboto/v19/KFOkCnqEu92Fr1MmgVxIIzI.woff2"
+            }
+          },
+          "300": {
+            "local": [
+              "'Roboto Light'",
+              "'Roboto-Light'"
+            ],
+            "url": {
+              "eot": "http://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmSU5fBBc8.eot",
+              "svg": "http://fonts.gstatic.com/l/font?kit=KFOlCnqEu92Fr1MmSU5fBBc_&skey=11ce8ad5f54705ca&v=v19#Roboto",
+              "ttf": "http://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmSU5fBBc9.ttf",
+              "woff": "http://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmSU5fBBc-.woff",
+              "woff2": "http://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmSU5fBBc4.woff2"
+            }
+          },
+          "400": {
+            "local": [
+              "'Roboto'",
+              "'Roboto-Regular'"
+            ],
+            "url": {
+              "eot": "http://fonts.gstatic.com/s/roboto/v19/KFOmCnqEu92Fr1Mu4mxO.eot",
+              "svg": "http://fonts.gstatic.com/l/font?kit=KFOmCnqEu92Fr1Mu4mxN&skey=a0a0114a1dcab3ac&v=v19#Roboto",
+              "ttf": "http://fonts.gstatic.com/s/roboto/v19/KFOmCnqEu92Fr1Mu4mxP.ttf",
+              "woff": "http://fonts.gstatic.com/s/roboto/v19/KFOmCnqEu92Fr1Mu4mxM.woff",
+              "woff2": "http://fonts.gstatic.com/s/roboto/v19/KFOmCnqEu92Fr1Mu4mxK.woff2"
+            }
+          },
+          "500": {
+            "local": [
+              "'Roboto Medium'",
+              "'Roboto-Medium'"
+            ],
+            "url": {
+              "eot": "http://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmEU9fBBc8.eot",
+              "svg": "http://fonts.gstatic.com/l/font?kit=KFOlCnqEu92Fr1MmEU9fBBc_&skey=ee881451c540fdec&v=v19#Roboto",
+              "ttf": "http://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmEU9fBBc9.ttf",
+              "woff": "http://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmEU9fBBc-.woff",
+              "woff2": "http://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmEU9fBBc4.woff2"
+            }
+          },
+          "700": {
+            "local": [
+              "'Roboto Bold'",
+              "'Roboto-Bold'"
+            ],
+            "url": {
+              "eot": "http://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmWUlfBBc8.eot",
+              "svg": "http://fonts.gstatic.com/l/font?kit=KFOlCnqEu92Fr1MmWUlfBBc_&skey=c06e7213f788649e&v=v19#Roboto",
+              "ttf": "http://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmWUlfBBc9.ttf",
+              "woff": "http://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmWUlfBBc-.woff",
+              "woff2": "http://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmWUlfBBc4.woff2"
+            }
+          },
+          "900": {
+            "local": [
+              "'Roboto Black'",
+              "'Roboto-Black'"
+            ],
+            "url": {
+              "eot": "http://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmYUtfBBc8.eot",
+              "svg": "http://fonts.gstatic.com/l/font?kit=KFOlCnqEu92Fr1MmYUtfBBc_&skey=934406f772f9777d&v=v19#Roboto",
+              "ttf": "http://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmYUtfBBc9.ttf",
+              "woff": "http://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmYUtfBBc-.woff",
+              "woff2": "http://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmYUtfBBc4.woff2"
+            }
+          }
+        }
+      },
+      "version": "v19"
+    }
+}
